@@ -8,7 +8,7 @@ const config = {
   },
   bsc: {
     owners: [
-      '0xC7029E939075F48fa2D5953381660c7d01570171', //Polygon hot wallet
+      '0xC7029E939075F48fa2D5953381660c7d01570171', //BSC hot wallet
     ]
   },
   tron: {
